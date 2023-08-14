@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I love cats and dad jokes
 
 ### :fire: My Stats
-https://github-readme-streak-stats.herokuapp.com/?user=mohsink20
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohsink20&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **mohsink20/mohsink20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
