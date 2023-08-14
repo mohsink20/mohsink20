@@ -1,3 +1,4 @@
+- https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif
 ### Hi there 👋
 - 🌱 I’m currently learning Cyber Security and Computer Science
 - ⚡ Fun fact: I love cats and dad jokes
