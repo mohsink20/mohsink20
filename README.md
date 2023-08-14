@@ -1,4 +1,5 @@
-![discord-hacking](https://github.com/mohsink20/mohsink20/assets/130535205/2bcbda0f-fe2b-4b8d-9733-1d9434e901f9)
+
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/mohsink20/mohsink20/assets/130535205/a4fa8fb0-741b-4af6-896e-6659b2b0a3ad)
 
 
 ### Hi there 👋
