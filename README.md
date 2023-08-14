@@ -1,4 +1,4 @@
--![ninjala-jane](https://github.com/mohsink20/mohsink20/assets/130535205/90143cd5-a5a7-48d1-8c98-03416ad47808)
+![ninjala-jane](https://github.com/mohsink20/mohsink20/assets/130535205/90143cd5-a5a7-48d1-8c98-03416ad47808)
 
 
 ### Hi there 👋
