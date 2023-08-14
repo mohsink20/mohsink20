@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Penetration Testing and Bug Bounty
+- 🌱 I’m currently learning Cyber Security and Computer Science
+- ⚡ Fun fact: I love cats and dad jokes
 <!--
 **mohsink20/mohsink20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
