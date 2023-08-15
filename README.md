@@ -6,6 +6,11 @@
 - 🌱 I’m currently learning Cyber Security and Computer Science
 - ⚡ Fun fact: I love cats and dad jokes
 
+### Certifications
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
+- (ISC)² Certified in Cybersecurity
+
 ### :fire: My Stats
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohsink20&theme=dark&background=000000)](https://git.io/streak-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsink20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
