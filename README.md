@@ -2,20 +2,20 @@
 ![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/mohsink20/mohsink20/assets/130535205/a4fa8fb0-741b-4af6-896e-6659b2b0a3ad)
 
 
-### Hi there 👋
+###  👋 Hi there 👋
 - 🌱 I’m currently learning Cyber Security and Computer Science
 - ⚡ Fun fact: I love cats and dad jokes
 
-### Certifications
+### 📜 Certifications 📜
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
 - (ISC)² Certified in Cybersecurity
 
-### Currently Preparing for
+### 📖 Currently Preparing for 📖
 - Offensive Security Certfied Professional (OSCP)
 - HackTheBox Certified Penetration Testing Specialist
 
-### :fire: My Stats
+### :fire: My Stats 🔥
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohsink20&theme=dark&background=000000)](https://git.io/streak-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsink20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
