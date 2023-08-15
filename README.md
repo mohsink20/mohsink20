@@ -3,8 +3,8 @@
 
 
 ###  👋 Hi there 👋
-- 🌱 I’m currently learning Cyber Security and Computer Science
-- ⚡ Fun fact: I love cats and dad jokes
+- I’m currently learning Cyber Security and Computer Science
+- Fun fact: I love cats and dad jokes
 
 ### 📜 Certifications 📜
 - CompTIA Security+
