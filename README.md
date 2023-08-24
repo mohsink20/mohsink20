@@ -12,7 +12,7 @@
 - (ISC)² Certified in Cybersecurity
 
 ### 📖 Currently Preparing for 📖
-- Offensive Security Certfied Professional (OSCP)
+- Offensive Security Certified Professional (OSCP)
 - HackTheBox Certified Penetration Testing Specialist
 
 ### :fire: My Stats 🔥
