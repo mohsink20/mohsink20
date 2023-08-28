@@ -9,7 +9,7 @@
 ### 📜 Certifications 📜
 - CompTIA Security+
 - Google Cybersecurity Professional Certificate
-- ISC2 Certified in Cybersecurity
+- ISC2 Certified in Cybersecurity (CC)
 
 ### 📖 Currently Preparing for 📖
 - Offensive Security Certified Professional (OSCP)
